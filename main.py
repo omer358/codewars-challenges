@@ -5,7 +5,7 @@
 
 
 def print_hi(name):
-    import FindTheStrayNumber
+    import find_the_odd_int
 
 # Use a breakpoint in the code line below to debug your script.
 # print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
