@@ -19,8 +19,7 @@ def high_and_low(numbers):
     for i in range(len(num)):
         num[i] = int(num[i])
 
-    my_list = [max(num), min(num)]
-    return " ".join(map(str, my_list))
+    return "%i %i" % (max(num), min(num))
 
 
 print(high_and_low('1 2 34 5 6 3 4 6'))
