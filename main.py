@@ -5,7 +5,7 @@
 
 
 def print_hi(name):
-    import SumOfPairs
+    import BinaryAddition
 
 
 # Use a breakpoint in the code line below to debug your script.
